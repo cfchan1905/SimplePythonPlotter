@@ -1,2 +1,2 @@
-# Simple_Python_Plotter
+# SimplePythonPlotter
 Simple python plotter for quick simulation
