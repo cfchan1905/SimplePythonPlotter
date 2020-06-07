@@ -32,3 +32,5 @@ elif plot_opt == '2D':
     # Change axes labels
     plt.xlabel('t/(1/$\Omega_R$)',fontsize=16);
     plt.ylabel('$\Delta$/$\Omega_R$',fontsize=16)
+
+print("Finnished plotting.")
