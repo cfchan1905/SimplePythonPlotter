@@ -34,3 +34,4 @@ elif plot_opt == '2D':
     plt.ylabel('$\Delta$/$\Omega_R$',fontsize=16)
 
 print("Finnished plotting.")
+print("Yeah,oh")
